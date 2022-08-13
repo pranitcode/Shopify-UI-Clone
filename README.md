@@ -1,1 +1,1 @@
-# Shopify-UI-Tailwind
+# Shopify-UI-Tailwand
