@@ -6,8 +6,8 @@
   <link href="//db.onlinewebfonts.com/c/ad26818d844de4534fd78bb03028ca79?family=Shopify+Sans+Web+Medium" rel="stylesheet" type="text/css"/>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://cdn.tailwindcss.com"></script>
-
   <script>
+
     tailwind.config = {
       theme: {
           extend: {
@@ -22,10 +22,10 @@
         }
       }
     }
+
   </script>
 
-
-  <style>
+ <style>
     @font-face {
     font-family: "Shopify Sans Web Medium";
     src: url('./font/OnlineWebFonts_COM_46d8cc133c35dbc56438617ed53fe95e/Shopify Sans Web Medium Regular/@font-face/ad26818d844de4534fd78bb03028ca79.woff2');
@@ -34,13 +34,17 @@
       font-family: "Shopify Sans Web Medium"
        }
   </style>
-  
 </head>
-<body  style="font-family:Shopify Sans Web Medium">
-    <header class="sticky h-16 px-3 z-50 top-0 w-full bg-bgcolor flex items-center justify-between lg:justify-around lg:mx-auto lg:container">
+
+<body style="font-family:Shopify Sans Web Medium">
+
+  <!-- Header Part  -->
+
+<header class="sticky h-16 px-3 z-50 top-0 w-full bg-bgcolor flex items-center justify-between lg:justify-around lg:mx-auto lg:container">
         <div  class=" w-32 flex-shrink-0">
           <img  class="object-cover "  src="./assests/sho.png" alt="">
         </div>
+
         <ul class="hidden text-navtext font-medium font-semibold sm:flex lg:flex">
           <li class="sm:mx-5 sm:my-1.5">Start <i class=" text-xs mx-1 fa-solid fa-angle-down"></i></li>
           <li class="sm:mx-5 sm:my-1.5">Sell<i class=" text-xs mx-1  fa-solid fa-angle-down"></i></li>
@@ -52,31 +56,40 @@
           <li class="sm:mx-8 sm:my-1.5">Learn <i class=" sm:mx-1 text-xs fa-solid fa-angle-down"></i></li>
           <li class="sm:mx-8 sm:my-1.5">Log in</li>
         </ul>
+
         <button class="invisible text-white px-6 py-2.5 bg-btcolor rounded font-bold lg:visible">
           Try For Free
         </button>
+
         <p class="font-bold flex text-sm  -ml-4 mr-1 text-herosmpara-normal lg:hidden">Log in</p>
         <ul class="  lg:hidden">
           <i  class=" mt-1 text-xl fa-solid fa-bars"></i>
         </ul>
-      </header>
-  <div class="relative container bg-bgcolor tracking-tight flex items-end  flex-col justify-between lg:items-center lg:flex-row lg:mx-auto">
-  
-  <div class="flex ml-4 flex-col justify-center  space-y-8   pt-14 lg:pt-0  lg:ml-20  lg:w-1/2">
-    <h1 class="font-extrabold pr-3  text-heroh1 text-3xl leading-tight lg:pr-24 lg:text-5xl">The easiest way to sell online in India</h1>
-    <p class="pr-3 font-light text-heropara text-lg">Try one of the most powerful platforms on the market for free. No technical knowledge needed.</p>
-   <div>
-    <input  class="w-2/3 mr-3 py-3 border rounded border-btcolor outline-btcolor p-4 "placeholder="Enter your email address" type="text">
-    <button class="text-white  px-4 py-3 bg-btcolor rounded font-bold">
+</header>
+
+<!-- Hero section -->
+          <div class="relative container bg-bgcolor tracking-tight flex items-end  flex-col justify-between lg:items-center lg:flex-row lg:mx-auto">
+           <div class="flex ml-4 flex-col justify-center  space-y-8   pt-14 lg:pt-0  lg:ml-20  lg:w-1/2">
+             <h1 class="font-extrabold pr-3  text-heroh1 text-3xl leading-tight lg:pr-24 lg:text-5xl">The easiest way to sell online in India</h1>
+             <p class="pr-3 font-light text-heropara text-lg">Try one of the most powerful platforms on the market for free. No technical knowledge needed.</p>
+           <div>
+    
+    <div class="flex flex-row flex-wrap gap-3 items-center ">
+      <input  class="w-full mr-3 py-3 border rounded border-btcolor outline-btcolor p-4 lg:w-2/3 lg:mr-3 "placeholder="Enter your email address" type="text">
+    <button class=" w-full mr-3 text-white  px-4 py-3 bg-btcolor rounded font-bold lg:w-32">
       Try For Free
     </button>
-   </div>
+    </div>
+
+    
+  </div>
    <p class="text-heropara-normal font-thin text-xs">Try Shopify free for 14 days, no credit card required. By entering your email, you agree to receive marketing emails from Shopify.</p>
   </div>
-
-  <div class="  lg:w-1/2">
-  <img class="" src="./assests/herorightbg.webp" alt="">
+    
+   <div class="lg:w-1/2">
+      <img class="" src="./assests/herorightbg.webp" alt="">
   </div>
+
 </div> 
   
 
