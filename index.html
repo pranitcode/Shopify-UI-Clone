@@ -10,8 +10,7 @@
   <script>
     tailwind.config = {
       theme: {
-  
-        extend: {
+          extend: {
           colors: {
             bgcolor: '#FBF7ED',
             btcolor:'#008060',
@@ -24,11 +23,21 @@
       }
     }
   </script>
-</head>
-<body  style="font-family:Shopify Sans Web Medium"   >
 
-   
-      <header class="sticky h-16 px-3 z-50 top-0 w-full bg-bgcolor flex items-center justify-between lg:justify-around lg:mx-auto lg:container">
+
+  <style>
+    @font-face {
+    font-family: "Shopify Sans Web Medium";
+    src: url('./ad26818d844de4534fd78bb03028ca79.woff2');
+       }
+     html{
+      font-family: "Shopify Sans Web Medium"
+       }
+  </style>
+  
+</head>
+<body  style="font-family:Shopify Sans Web Medium">
+    <header class="sticky h-16 px-3 z-50 top-0 w-full bg-bgcolor flex items-center justify-between lg:justify-around lg:mx-auto lg:container">
         <div  class=" w-32 flex-shrink-0">
           <img  class="object-cover "  src="./assests/sho.png" alt="">
         </div>
@@ -46,9 +55,7 @@
         <button class="invisible text-white px-6 py-2.5 bg-btcolor rounded font-bold lg:visible">
           Try For Free
         </button>
-
         <p class="font-bold flex text-sm  -ml-4 mr-1 text-herosmpara-normal lg:hidden">Log in</p>
-
         <ul class="  lg:hidden">
           <i  class=" mt-1 text-xl fa-solid fa-bars"></i>
         </ul>
