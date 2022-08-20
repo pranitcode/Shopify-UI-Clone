@@ -13,7 +13,7 @@
 
 ![name](https://img.shields.io/badge/Pranit--Ingole-BE--Information--Technology--2022-lightgrey)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book..
+<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. -->
 
 ## Technology Stack Used
 
@@ -30,7 +30,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 #### Shopify clone  [Preview Link](https://shopifyui.netlify.app/)
 
-----
+---
 
 ![shopify.](./assests/projimg.png)
 
