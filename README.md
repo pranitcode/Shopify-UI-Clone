@@ -36,11 +36,11 @@
 
 
 
-### Need help?
+### Let's talk 🙂
 
-  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@pranit.ingole&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/prani.ingole/)
+  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@pranit.ingole&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/pranit.ingole/)
   
-   [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@pranitcode&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/pranitcode/)
+   [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@pranitcode&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/pranitcodes/)
 
    [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@pranitingole&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranitingole/) 
 
