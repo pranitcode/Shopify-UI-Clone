@@ -25,7 +25,7 @@
 
 
 - Front End - **HTML**, **CSS**
-- Framewrok - **Tailwind**
+- Framework - **Tailwind**
 
 
 #### Shopify clone  [Preview Link](https://shopifyui.netlify.app/)
