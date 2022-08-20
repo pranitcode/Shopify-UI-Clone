@@ -46,5 +46,5 @@
 
 ***Glad to see you here! Show some love by [starring](https://github.com/pranitcode/Shopify-UI-Tailwand) this repo.***
 
----
+
 ******
