@@ -13,7 +13,8 @@
 
 ![name](https://img.shields.io/badge/Pranit--Ingole-BE--Information--Technology--2022-lightgrey)
 
-<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. -->
+I build a Shopify clone, for making this project takes 36 hours.
+I used Html Css Tailwindcss, In this project, I applied CSS flexbox, grid, positioning, and other CSS important property
 
 ## Technology Stack Used
 
