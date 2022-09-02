@@ -13,8 +13,7 @@
 
 ![name](https://img.shields.io/badge/Pranit--Ingole-BE--Information--Technology--2022-lightgrey)
 
-I build a Shopify clone, for making this project takes 36 hours.
-I used Html Css Tailwindcss, In this project, I applied CSS flexbox, grid, positioning, and other CSS important property
+I built this project in 40 hours, For making this project, I used HTML and Tailwind CSS. I applied some important CSS properties like CSS positioning, CSS hover effect, z-index, CSS flexbox, and other properties. I learn more about positioning, and media queries for making the site responsive for mobile, tab, and desktop view, this project is completely responsive now.
 
 ## Technology Stack Used
 
@@ -45,7 +44,7 @@ I used Html Css Tailwindcss, In this project, I applied CSS flexbox, grid, posit
 
    [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@pranitingole&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranitingole/) 
 
-***Glad to see you here! Show some love by [starring](https://github.com/pranitcode/Shopify-UI-Tailwand) this repo.***
+***Glad to see you here! Show some love by ❤️ [like](https://www.findcoder.io/project/shopify-ui-clone/6312612e8dac50307e6ed75c) this project on [findcoder](https://www.findcoder.io/u/pranitingole) .***
 
 
 ******
