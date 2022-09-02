@@ -25,7 +25,7 @@ I built this project in 40 hours, For making this project, I used HTML and Tailw
 
 
 - Front End - **HTML**, **CSS**
-- Framewrok - **Tailwind**
+- Framework - **Tailwind**
 
 
 #### Shopify clone  [Preview Link](https://shopifyui.netlify.app/)
